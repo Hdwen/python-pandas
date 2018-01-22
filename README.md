@@ -1,2 +1,2 @@
-# python-pandas-agg_func
+# python-pandas
 pandas
